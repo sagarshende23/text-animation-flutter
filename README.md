@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://im.ezgif.com/tmp/ezgif-1-a233812d79c7.gif" width="250" hspace="4">
+  <img src="https://im.ezgif.com/tmp/ezgif-1-a233812d79c7.gif" height="600" hspace="4">
 </p>
 
 ## ⚙️ Built with Amazing Tools
